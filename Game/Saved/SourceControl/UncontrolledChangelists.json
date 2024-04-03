@@ -8,7 +8,11 @@
 				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Character/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/GUI/GUI.uasset",
 				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Spawnable_Objects/Platform.uasset",
-				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Textures/SM_Block.uasset"
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Textures/SM_Block.uasset",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Spawnable_Objects/PlayerButton_BP.uasset",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP.uasset",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Spawnable_Objects/Lever_BP.uasset"
 			]
 		}
 	]
