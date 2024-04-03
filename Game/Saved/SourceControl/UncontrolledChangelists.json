@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Character/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/GUI/GUI.uasset",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Spawnable_Objects/Platform.uasset",
+				"C:/Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Textures/SM_Block.uasset"
+			]
+		}
+	]
+}

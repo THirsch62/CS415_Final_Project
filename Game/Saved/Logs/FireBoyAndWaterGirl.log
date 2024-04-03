@@ -1204,3 +1204,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.03-23.09.44:548][850]LogStaticMesh: Display: Building static mesh SM_Block...
 [2024.04.03-23.09.44:553][850]LogStaticMesh: Built static mesh [0.01s] /Game/BlockGame/Meshes/SM_Block.SM_Block
 [2024.04.03-23.09.44:632][851]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-23.10.24:529][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.03-23.10.24:533][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-23.10.24:603][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-23.10.24:621][589]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.006493 seconds
+[2024.04.03-23.10.24:654][589]LogSavePackage: Moving output files for package: /Game/FireBoyWaterGirl_Content/Character/BP_LearningKit_PlayerCharacter
+[2024.04.03-23.10.24:654][589]LogSavePackage: Moving '../../../../../../Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Saved/BP_LearningKit_PlayerCharacterCCAFAECB48238C0C0FBFA2B42B279ECD.tmp' to '../../../../../../Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Character/BP_LearningKit_PlayerCharacter.uasset'
+[2024.04.03-23.10.24:661][589]LogSavePackage: Moving output files for package: /Game/FireBoyWaterGirl_Content/GUI/GUI
+[2024.04.03-23.10.24:661][589]LogSavePackage: Moving '../../../../../../Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Saved/GUI438ACAE6487590A32CDCBF9A830954C4.tmp' to '../../../../../../Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/GUI/GUI.uasset'
+[2024.04.03-23.10.24:667][589]LogSavePackage: Moving output files for package: /Game/FireBoyWaterGirl_Content/Spawnable_Objects/Platform
+[2024.04.03-23.10.24:667][589]LogSavePackage: Moving '../../../../../../Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Saved/Platform4F78854F488F5A6C663FCE9A478AE549.tmp' to '../../../../../../Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Spawnable_Objects/Platform.uasset'
+[2024.04.03-23.10.24:678][589]LogSavePackage: Moving output files for package: /Game/FireBoyWaterGirl_Content/Textures/SM_Block
+[2024.04.03-23.10.24:678][589]LogSavePackage: Moving '../../../../../../Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Saved/SM_Block484A1E7A4C32FFA027BBAB95EFE177EC.tmp' to '../../../../../../Users/tyler/OneDrive - University of Illinois - Urbana/24 Spring/CS 415/CS415_Final_Project/Game/Content/FireBoyWaterGirl_Content/Textures/SM_Block.uasset'
+[2024.04.03-23.10.24:688][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms
+[2024.04.03-23.10.24:690][589]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.03-23.10.24:690][589]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FireBoyWaterGirl_Content/Character/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.04.03-23.10.24:690][589]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FireBoyWaterGirl_Content/GUI/GUI.GUI
+[2024.04.03-23.10.24:690][589]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FireBoyWaterGirl_Content/Spawnable_Objects/Platform.Platform
+[2024.04.03-23.10.24:690][589]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/FireBoyWaterGirl_Content/Textures/SM_Block.SM_Block
