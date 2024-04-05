@@ -3,11 +3,11 @@
 ## April 5th, 2024
 Tyler created the following:
 * Spawnable Objects
-*   Basic Platform
-*   Moving Platform Z
-*   Moving Platform XY
-*   Lever Platform
-*   Button Platform
+  * Basic Platform
+  * Moving Platform Z
+  * Moving Platform XY
+  * Lever Platform
+  * Button Platform
 * In game GUI with working time and gems collected
 
 Tyler also started work on the menus and menu controllers.
