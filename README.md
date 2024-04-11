@@ -1,5 +1,25 @@
 # Fire Boy and Water Girl 3-D
 
+## April 10th, 2024
+Tyler created a linking feature to map lever/button platforms to the various moving platforms.
+
+## April 8th, 2024
+Anwesa added the water, fire and acid pools. Functionality is as follows:
+* Water pools
+  * Fire boy dies
+  * Water girl lives
+* Fire pools
+  * Fire boy lives
+  * Water girl dies
+* Acid pools
+  * Fire boy dies
+  * Water girl dies
+
+Wentao added the level end door. It will load the next level upon completion. He also added movable blocks.
+
+## April 7th, 2024
+Eric added the fire and water gems, with functionality, so that fire gems can only be picked up by fire boy and water gems can only be picked up by water girl.
+
 ## April 5th, 2024
 Tyler created the following:
 * Spawnable Objects
