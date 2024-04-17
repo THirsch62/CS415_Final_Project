@@ -1,14 +1,14 @@
 # Fire Boy and Water Girl 3-D
 
-## April 17th, 2024 (Alpha Submission Demo)
+## April 17th, 2024
 Tyler looked into the linking issue between the two buttons. After debugging, the issue was identified within the "Get Current Level Name" function. This was resolved by creating a new level, specifically for menu operations. The menu can only be opened on level, which will help prevent trying to open an already open level.  
 
 After this, the linking issue was resolved. Tyler also added:
 * Functionality for level restart upon player death
+* Fixed door functionality (Couldn't recognize when both players were standing at their respective doors)
+* Added level complete/end screen
 * Bringing up main menu upon level completion
 * Combining endgates into one spawnable object
-
-The only thing we really need to focus on after our Alpha submission is creating levels.
 
 ## April 16th, 2024
 Max added Level 1. A few problems he noticed:
