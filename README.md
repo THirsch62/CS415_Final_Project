@@ -47,7 +47,7 @@ Tyler created the following:
   * Button Platform
 * In game GUI with working time and gems collected
 
-Tyler also started work on the menus and menu controllers.
+Tyler added these features to the demo level for display and also started work on the menus and menu controllers.
 
 ## April 4th 2024
 Max made a demo level and created the two base characters, fireboy and water girl.
