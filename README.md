@@ -1,5 +1,19 @@
 # Fire Boy and Water Girl 3-D
 
+## April 17th, 2024 (Alpha Submission Demo)
+Tyler looked into the linking issue between the two buttons. After debugging, the issue was identified within the "Get Current Level Name" function. This was resolved by creating a new level, specifically for menu operations. The menu can only be opened on level, which will help prevent trying to open an already open level.  
+
+After this, the linking issue was resolved. Tyler also added functionality for level restart upon player death and brining up the main menu upon level completion. 
+
+The only thing we really need to focus on after our Alpha submission is creating levels.
+
+## April 16th, 2024
+Max added Level 1. A few problems he noticed:
+* Linking issue between two buttons and the same platform on Level 1
+* Push block leaves red outlines and is buggy
+* Push block is not affected by gravity
+* Need to add level end screen
+
 ## April 10th, 2024
 Tyler created a linking feature to map lever/button platforms to the various moving platforms.
 
