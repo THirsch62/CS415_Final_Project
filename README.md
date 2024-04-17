@@ -3,7 +3,7 @@
 ## April 17th, 2024 (Alpha Submission Demo)
 Tyler looked into the linking issue between the two buttons. After debugging, the issue was identified within the "Get Current Level Name" function. This was resolved by creating a new level, specifically for menu operations. The menu can only be opened on level, which will help prevent trying to open an already open level.  
 
-After this, the linking issue was resolved. Tyler also added functionality for level restart upon player death. 
+After this, the linking issue was resolved. Tyler also added functionality for level restart upon player death and brining up the main menu upon level completion. 
 
 The only thing we really need to focus on after our Alpha submission is creating levels.
 
