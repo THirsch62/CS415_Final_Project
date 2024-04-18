@@ -1,0 +1,60 @@
+[+] Containers:
+ |- [+] Container: /Game/FireBoyWaterGirl_Content/Levels/Start
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:4B587EED40BE17AF5E9ABCA6D757AAB2 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:D7DA6E154496785F9126DAB3493FB2CF BaseClass:/Game/FireBoyWaterGirl_Content/Controllers/Main_Controller.Main_Controller_C NativeClass:/Script/Engine.Actor Name:Main_Controller_C_UAID_D8BBC103AD8110ED01_1601225248 Label:Main_Controller SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=360.000 Y=50.000 Z=100.000), Max=(X=360.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:4B587EED40BE17AF5E9ABCA6D757AAB2 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:D7DA6E154496785F9126DAB3493FB2CF BaseClass:/Game/FireBoyWaterGirl_Content/Controllers/Main_Controller.Main_Controller_C NativeClass:/Script/Engine.Actor Name:Main_Controller_C_UAID_D8BBC103AD8110ED01_1601225248 Label:Main_Controller SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=360.000 Y=50.000 Z=100.000), Max=(X=360.000 Y=50.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=360.000 Y=50.000 Z=100.000), Max=(X=360.000 Y=50.000 Z=100.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/FireBoyWaterGirl_Content/Levels/Start
+----------------------------------------------------------------------------------------------------------------
+Start - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Start Persistent Level
+ |- Always loaded Actor Count: 7 
+ |- Actor Path: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start.Start:PersistentLevel.Brush_0
+ |- Actor Package: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start
+ |- Actor Path: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start.Start:PersistentLevel.ChaosDebugDrawActor
+ |- Actor Package: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start
+ |- Actor Path: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start.Start:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start
+ |- Actor Path: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start.Start:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start
+ |- Actor Path: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start.Start:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FireBoyWaterGirl_Content/Levels/Start/7/LE/8E6AMWH74M8251450YHZ3C
+ |- Actor Path: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start.Start:PersistentLevel.WorldPartitionReplay
+ |- Actor Package: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start
+ |- Actor Path: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start.Start:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start
+
+----------------------------------------------------------------------------------------------------------------
+Start - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=360.000 Y=50.000 Z=100.000), Max=(X=360.000 Y=50.000 Z=100.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    1 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Start_MainGrid_L0_X0_Y0 (EWC7H2S82IRFSMY9VOCIJEB4E)
+ |   |- Actor Count: 1
+ |   |-          Actor Path: /Game/FireBoyWaterGirl_Content/Levels/UEDPIE_0_Start.Start:PersistentLevel.Main_Controller_C_UAID_D8BBC103AD8110ED01_1601225248
+ |   |-       Actor Package: /Game/__ExternalActors__/FireBoyWaterGirl_Content/Levels/Start/8/WC/P01ST74DH126E5586PWUMA
+ |   |- Actor Instance Guid: D7DA6E154496785F9126DAB3493FB2CF
+[+] Content of Grid Level 1
+
